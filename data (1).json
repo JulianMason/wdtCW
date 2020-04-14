@@ -1,0 +1,112 @@
+{
+    "data": [
+        {
+            "Year": 2035,
+            "Population": 1834294,
+            "GrowthRate": "0.0063",
+            "Growth": 56719
+        },
+        {
+            "Year": 2030,
+            "Population": 1777575,
+            "GrowthRate": "0.0067",
+            "Growth": 58634
+        },
+        {
+            "Year": 2025,
+            "Population": 1718941,
+            "GrowthRate": "0.0054",
+            "Growth": 45609
+        },
+        {
+            "Year": 2020,
+            "Population": 1673332,
+            "GrowthRate": "0.0036",
+            "Growth": 29711
+        },
+        {
+            "Year": 2015,
+            "Population": 1643621,
+            "GrowthRate": "0.0033",
+            "Growth": 26823
+        },
+        {
+            "Year": 2010,
+            "Population": 1616798,
+            "GrowthRate": "0.0026",
+            "Growth": 20571
+        },
+        {
+            "Year": 2005,
+            "Population": 1596227,
+            "GrowthRate": "0.0014",
+            "Growth": 11078
+        },
+        {
+            "Year": 2000,
+            "Population": 1585149,
+            "GrowthRate": "-0.0045",
+            "Growth": -36315
+        },
+        {
+            "Year": 1995,
+            "Population": 1621464,
+            "GrowthRate": "-0.0045",
+            "Growth": -37137
+        },
+        {
+            "Year": 1990,
+            "Population": 1658601,
+            "GrowthRate": "-0.0045",
+            "Growth": -37987
+        },
+        {
+            "Year": 1985,
+            "Population": 1696588,
+            "GrowthRate": "-0.0036",
+            "Growth": -31037
+        },
+        {
+            "Year": 1980,
+            "Population": 1727625,
+            "GrowthRate": 0,
+            "Growth": 0
+        },
+        {
+            "Year": 1975,
+            "Population": 1727625,
+            "GrowthRate": "-0.0007",
+            "Growth": -5940
+        },
+        {
+            "Year": 1970,
+            "Population": 1733565,
+            "GrowthRate": "-0.0042",
+            "Growth": -36828
+        },
+        {
+            "Year": 1965,
+            "Population": 1770393,
+            "GrowthRate": "-0.0031",
+            "Growth": -27919
+        },
+        {
+            "Year": 1960,
+            "Population": 1798312,
+            "GrowthRate": "0.0024",
+            "Growth": 21705
+        },
+        {
+            "Year": 1955,
+            "Population": 1776607,
+            "GrowthRate": "0.0024",
+            "Growth": 21437
+        },
+        {
+            "Year": 1950,
+            "Population": 1755170,
+            "GrowthRate": 0,
+            "Growth": 0
+        }
+    ]
+}
